@@ -24,7 +24,7 @@ Audify is a platform designed to categorize and display various podcast content 
 
 ## Live Demos
 
-- [Live Demo ]([https://abedalmajed.github.io/Audify-Project/](https://abdallah-aljbour.github.io/Website-Audify/))
+- [Live Demo ](https://abedalmajed.github.io/Audify-Project/(https://abdallah-aljbour.github.io/Website-Audify/))
 
 ## Organization Demo
-- [Organization]([https://github.com/AbedAlmajed/Audify-Project])
+- [Organization](https://github.com/AbedAlmajed/Audify-Project)
